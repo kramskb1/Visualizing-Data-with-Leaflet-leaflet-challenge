@@ -11,3 +11,7 @@ d3.json(queryUrl, function(data) {
         weight: 0.5
       };
     }})
+    var myMap = L.map("map", {
+        center: [37.45, -122.38,
+        zoom: 5
+      });
