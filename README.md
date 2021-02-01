@@ -1,1 +1,1 @@
-	An earthquake data set was visualized. The USGS GeoJSON Feed Page was visited. I picked the data set “All Earthquakes from the Past 7 Days” to visualize. 
+An earthquake data set was visualized. The USGS GeoJSON Feed Page was visited. I picked the data set “All Earthquakes from the Past 7 Days” to visualize. I was given a JSON representation of that data. I used the URL of this JSON to pull in the data for my visualization. 
